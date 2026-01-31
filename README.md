@@ -94,4 +94,4 @@ opensource contributions
     <p>I enjoying Music, and playing  games in my free time. Also I love watching Movies,cricket a lot.</p>
   </section>
 </body>
-</html>
+</!DOCTYPE html>
