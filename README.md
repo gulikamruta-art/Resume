@@ -1,4 +1,4 @@
-< html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -27,14 +27,10 @@
 </style>
 </head>
 <body>
-  <header>
-    <h1>RESUME@A37</h1>
-    <img src="your-image-url.jpg" alt="Profile Image" style="width: 40%; max-height: 100px;">
-  </header>
-  
+ 
   <section>
     <h2>Introduction</h2>
-    <p>I'm Amruta Gulik from Mumbai and currently I am pursuing my<b> B.E in Electronics  from Mumbai University and my career objective is to make significant 
+    <p>I'm Amruta Gulik from Mumbai and currently I am pursuing my B.E in Electronics from Mumbai University and my career objective is to make significant 
 opensource contributions
       to the field of Software Development as well as Technical. With a solid foundation in both technical and software skill, I am committed
       to pushing the boundaries of knowledge. </p>
@@ -81,7 +77,7 @@ opensource contributions
       </tr>
       <tr>
         <td>2nd year</td>
-        <td>Java and Dbms <br>
+        <td>Java <br>
         Python <br>Html </td>
         <td>Food Order System <br>
         Object Ditector</td>
