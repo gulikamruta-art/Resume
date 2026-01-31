@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+< html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -28,7 +28,7 @@
 </head>
 <body>
   <header>
-    <h1>RESUME</h1>
+    <h1>RESUME@A37</h1>
     <img src="your-image-url.jpg" alt="Profile Image" style="width: 40%; max-height: 100px;">
   </header>
   
@@ -93,5 +93,3 @@ opensource contributions
     <h2>About Hobbies</h2>
     <p>I enjoying Music, and playing  games in my free time. Also I love watching Movies,cricket a lot.</p>
   </section>
-</body>
-</!DOCTYPE html>
