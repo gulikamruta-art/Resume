@@ -27,6 +27,11 @@
 </style>
 </head>
 <body>
+<header>
+    <h1>RESUME@37</h1>
+    <img src="your-image-url.jpg" alt="Profile Image" style="width: 40%; max-height: 100px;">
+  </header>
+
  
   <section>
     <h2>Introduction</h2>
